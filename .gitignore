@@ -1,0 +1,11 @@
+# Môi trường
+.venv/
+__pycache__/
+
+# Dữ liệu khuôn mặt là dữ liệu cá nhân nhạy cảm: KHÔNG đưa lên GitHub
+data/faces/
+data/face_model.yml
+data/fae_labels.json
+
+# Báo cáo sinh ra khi chạy
+bao_cao/

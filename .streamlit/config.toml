@@ -1,0 +1,7 @@
+# Cấu hình Streamlit cho project (đọc tự động khi chạy "streamlit run app.py" trong thư mục này)
+
+[server]
+showEmailPrompt = false     # không hỏi email lúc chạy lần đầu
+
+[browser]
+gatherUsageStats = false    # không gửi thống kê sử dụng về Streamlit
